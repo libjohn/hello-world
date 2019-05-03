@@ -8,8 +8,14 @@ My first GitHub Repo
 - best of enimies
 - shazam
 - 
-## Favorit Books
+## Favorite Books
 
 - white fang
 - harry potter
 - star wars
+
+## Favorite sports
+
+- college basketball
+- cycling
+- track
