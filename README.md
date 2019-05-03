@@ -19,3 +19,24 @@ My first GitHub Repo
 - college basketball
 - cycling
 - track
+
+
+## Favorite Animals
+
+- dogs
+- cats
+- snakes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
